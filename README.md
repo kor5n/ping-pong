@@ -1,2 +1,1 @@
-# ping-pong
 ping-pong
